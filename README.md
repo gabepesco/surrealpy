@@ -1,2 +1,2 @@
-# surrealpy
-An ongoing implemention of surreal numbers in Python.
+# SurrealPy
+An optimized implemention of surreal numbers in Python.
